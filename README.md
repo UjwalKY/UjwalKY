@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UjwalKY
+- 👋 Hi, I’m Ujwal Krishna Yerrapothu
 - 👀 I’m interested in everything that this world gives me.
 - 🌱 I’m currently learning Robotics and Autonomous Systems (ROS, Machine Learning, Electric and Autonomus Vehicles)
 - 📫 you can email me at ujwal.krishna97@gmail.com
